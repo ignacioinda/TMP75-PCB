@@ -1,0 +1,20 @@
+Component Name : TMP75C
+
+Part Count : 2
+
+Part : *
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : *
+     Pins - (Normal) : 8
+          SDA            1              Passive
+          SCL            2              Passive
+          ALERT          3              Passive
+          GND            4              Passive
+          VS             8              Passive
+          A0             7              Passive
+          A1             6              Passive
+          A2             5              Passive
+          Hidden Pins : 
+
